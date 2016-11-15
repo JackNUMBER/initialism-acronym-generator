@@ -1,150 +1,150 @@
 [
   {
      "type": "synonym",
-     "synonym": ["Super Mario Bros.", "Super Mario Brothers", "SMB"]
+     "synonyms": ["Super Mario Bros.", "Super Mario Brothers", "SMB"]
   },
   {
      "type": "synonym",
-     "synonym": ["Legend of Zelda", "LoZ"]
+     "synonyms": ["Legend of Zelda", "LoZ"]
   },
   {
      "type": "synonym",
-     "synonym": ["Pokemon", "PKMN"]
+     "synonyms": ["Pokemon", "PKMN"]
   },
   {
      "type": "synonym",
-     "synonym": ["Star Fox", "SF"]
+     "synonyms": ["Star Fox", "SF"]
   },
   {
      "type": "synonym",
-     "synonym": ["Donkey Kong", "DK"]
+     "synonyms": ["Donkey Kong", "DK"]
   },
   {
      "type": "synonym",
-     "synonym": ["Donkey Kong Country", "DKC"]
+     "synonyms": ["Donkey Kong Country", "DKC"]
   },
   {
      "type": "synonym",
-     "synonym": ["Yoshi's Island", "YI"]
+     "synonyms": ["Yoshi's Island", "YI"]
   },
   {
      "type": "synonym",
-     "synonym": ["Super Smash Bros.", "Super Smash Brothers", "SSB"]
+     "synonyms": ["Super Smash Bros.", "Super Smash Brothers", "SSB"]
   },
   {
      "type": "synonym",
-     "synonym": ["New Super Mario Bros. U", "New Super Mario Brothers U", "NSMBWU"]
+     "synonyms": ["New Super Mario Bros. U", "New Super Mario Brothers U", "NSMBWU"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto", "GTA"]
+     "synonyms": ["Grand Theft Auto", "GTA"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto II", "GTA2", "GTAII"]
+     "synonyms": ["Grand Theft Auto II", "GTA2", "GTAII"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto III", "GTA3", "GTAIII"]
+     "synonyms": ["Grand Theft Auto III", "GTA3", "GTAIII"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto IV", "GTA4", "GTAIV"]
+     "synonyms": ["Grand Theft Auto IV", "GTA4", "GTAIV"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto: Vice City", "GTA VC"]
+     "synonyms": ["Grand Theft Auto: Vice City", "GTA VC"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto: San Andreas", "GTA SA"]
+     "synonyms": ["Grand Theft Auto: San Andreas", "GTA SA"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto V", "GTA5", "GTAV"]
+     "synonyms": ["Grand Theft Auto V", "GTA5", "GTAV"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto: Liberty City Stories", "GTA LCS"]
+     "synonyms": ["Grand Theft Auto: Liberty City Stories", "GTA LCS"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto: Vice City Stories", "GTA VCS"]
+     "synonyms": ["Grand Theft Auto: Vice City Stories", "GTA VCS"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto: Chinatown Wars", "GTA CW"]
+     "synonyms": ["Grand Theft Auto: Chinatown Wars", "GTA CW"]
   },
   {
      "type": "synonym",
-     "synonym": ["Grand Theft Auto: Episodes from Liberty City", "GTA EFLC"]
+     "synonyms": ["Grand Theft Auto: Episodes from Liberty City", "GTA EFLC"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield", "BF"]
+     "synonyms": ["Battlefield", "BF"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield 1942", "BF42"]
+     "synonyms": ["Battlefield 1942", "BF42"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield 2", "BF2"]
+     "synonyms": ["Battlefield 2", "BF2"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield 3", "BF3"]
+     "synonyms": ["Battlefield 3", "BF3"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield 4", "BF4"]
+     "synonyms": ["Battlefield 4", "BF4"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield 1", "BF1"]
+     "synonyms": ["Battlefield 1", "BF1"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield Vietnam", "BFV"]
+     "synonyms": ["Battlefield Vietnam", "BFV"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield 2: Modern Combat", "BF2MC"]
+     "synonyms": ["Battlefield 2: Modern Combat", "BF2MC"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield 2142", "BF42"]
+     "synonyms": ["Battlefield 2142", "BF42"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield Bad Company", "BFBC"]
+     "synonyms": ["Battlefield Bad Company", "BFBC"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield Heroes", "BFH"]
+     "synonyms": ["Battlefield Heroes", "BFH"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield 1943", "BF43"]
+     "synonyms": ["Battlefield 1943", "BF43"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield Bad Company 2", "BFBC2"]
+     "synonyms": ["Battlefield Bad Company 2", "BFBC2"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield Play4Free", "BFP4F"]
+     "synonyms": ["Battlefield Play4Free", "BFP4F"]
   },
   {
      "type": "synonym",
-     "synonym": ["Battlefield Hardline", "BFH"]
+     "synonyms": ["Battlefield Hardline", "BFH"]
   },
   {
      "type": "synonym",
-     "synonym": ["Team Fortress Classic", "TFC"]
+     "synonyms": ["Team Fortress Classic", "TFC"]
   },
   {
      "type": "synonym",
-     "synonym": ["Team Fortress 2", "TF2"]
+     "synonyms": ["Team Fortress 2", "TF2"]
   }
 ]

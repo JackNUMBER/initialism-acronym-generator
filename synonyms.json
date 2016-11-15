@@ -34,5 +34,49 @@
   {
      "type": "synonym",
      "synonym": ["New Super Mario Bros. U", "New Super Mario Brothers U", "NSMBWU"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto", "GTA"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto II", "GTA2", "GTAII"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto III", "GTA3", "GTAIII"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto IV", "GTA4", "GTAIV"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto: Vice City", "GTA VC"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto: San Andreas", "GTA SA"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto V", "GTA5", "GTAV"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto: Liberty City Stories", "GTA LCS"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto: Vice City Stories", "GTA VCS"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto: Chinatown Wars", "GTA CW"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Grand Theft Auto: Episodes from Liberty City", "GTA EFLC"]
   }
 ]

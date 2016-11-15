@@ -146,5 +146,57 @@
   {
      "type": "synonym",
      "synonyms": ["Team Fortress 2", "TF2"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty", "COD"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty 2", "COD2"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty 3", "COD3"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty 4: Modern Warfare", "COD4", "COD MW"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty: World at War", "COD WaW"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty: Modern Warfare 2", "MW2"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty: Black Ops", "COD BO"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty: Modern Warfare 3", "MW3"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty: Black Ops II", "COD BO2"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty: Ghosts", "CODG"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty: Advanced Warfare", "COD AW"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty: Black Ops III", "COD BO3"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["Call of Duty: Infinite Warfare", "COD IW"]
   }
 ]

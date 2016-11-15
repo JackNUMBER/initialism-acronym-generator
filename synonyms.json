@@ -138,5 +138,13 @@
   {
      "type": "synonym",
      "synonym": ["Battlefield Hardline", "BFH"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Team Fortress Classic", "TFC"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Team Fortress 2", "TF2"]
   }
 ]

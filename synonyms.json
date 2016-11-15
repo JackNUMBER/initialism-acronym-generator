@@ -78,5 +78,65 @@
   {
      "type": "synonym",
      "synonym": ["Grand Theft Auto: Episodes from Liberty City", "GTA EFLC"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield", "BF"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield 1942", "BF42"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield 2", "BF2"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield 3", "BF3"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield 4", "BF4"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield 1", "BF1"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield Vietnam", "BFV"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield 2: Modern Combat", "BF2MC"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield 2142", "BF42"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield Bad Company", "BFBC"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield Heroes", "BFH"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield 1943", "BF43"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield Bad Company 2", "BFBC2"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield Play4Free", "BFP4F"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Battlefield Hardline", "BFH"]
   }
 ]

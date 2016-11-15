@@ -1,4 +1,6 @@
-This repo contains a list of videogames names initialism. There is no acronyms here (like LOL, FTW!, AFK...) then it's more like alternatives names.
+This repo contains a list of videogames names initialism. There is no acronyms here (like LOL, FTW!, AFK...) then it's more like alternatives names. These abbreviations are usually given by gamers themselves so feel free to contribute :wink:
+
+For example, **Grand Theft Auto V** is also named **GTAV** or **GTA 5**.
 
 Formated to be usable in Algolia Synonyms Settings.
 

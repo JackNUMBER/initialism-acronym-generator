@@ -1,0 +1,38 @@
+[
+  {
+     "type": "synonym",
+     "synonym": ["Super Mario Bros.", "Super Mario Brothers", "SMB"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Legend of Zelda", "LoZ"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Pokemon", "PKMN"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Star Fox", "SF"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Donkey Kong", "DK"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Donkey Kong Country", "DKC"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Yoshi's Island", "YI"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["Super Smash Bros.", "Super Smash Brothers", "SSB"]
+  },
+  {
+     "type": "synonym",
+     "synonym": ["New Super Mario Bros. U", "New Super Mario Brothers U", "NSMBWU"]
+  }
+]

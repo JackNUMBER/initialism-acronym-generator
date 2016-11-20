@@ -198,5 +198,25 @@
   {
      "type": "synonym",
      "synonyms": ["Call of Duty: Infinite Warfare", "COD IW"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["The Elder Scrolls", "TES"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["The Elder Scrolls II: Daggerfall", "TES2"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["The Elder Scrolls III: Morrowind", "TES3"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["The Elder Scrolls IV: Oblivion", "TES4"]
+  },
+  {
+     "type": "synonym",
+     "synonyms": ["The Elder Scrolls V: Skyrim", "TES5"]
   }
 ]

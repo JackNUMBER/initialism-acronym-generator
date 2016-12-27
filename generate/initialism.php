@@ -15,8 +15,8 @@ printf($mask, 'abbr', 'name', 'numbers');
 printf($mask, '', '', '');
 
 foreach ($names as $name) {
-    if (preg_match_all('/\b([a-zA-Z]|\d+)/', strtoupper($name), $m)) {
-        $abbr = implode('', $m[1]);
+    if (preg_match_all('/\b([a-zA-Z]|\d+|:)/', strtoupper($name), $m)) {
+        $abbr = str_replace(':', ' ', implode('', $m[1]));
     }
 
     $number = '';

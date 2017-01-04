@@ -93,10 +93,16 @@ foreach ($names as $name) {
     }
 
     printf($mask, $ignore_display, '(' . count($abbr) . ') ' . implode(', ', $abbr), $name, $words_count);
-    $output[] = sprintf($mask, $ignore_display, '(' . count($abbr) . ') ' . implode(', ', $abbr), $name, $words_count);
+
+    $temp = $abbr;
+    array_unshift($temp, $name);
+    $output[] = [
+        'type' => 'synonym',
+        'synonyms' => $temp,
+    ];
 }
 
-file_put_contents($file_name . '_generated.txt', implode('', $output));
+file_put_contents($file_name . '.json', json_encode($output, JSON_PRETTY_PRINT));
 
 echo "\n";
 ?>

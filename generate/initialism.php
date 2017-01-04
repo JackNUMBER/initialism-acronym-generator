@@ -1,9 +1,10 @@
 <?php
-$max = 20;
+// $max = 20;
 $count = 0;
+$file_name = 'XBOX-games_wiki';
 
 // read file
-$file = fopen('XBOX-games_wiki.txt', "r");
+$file = fopen($file_name . '.txt', "r");
 $names = [];
 while (($line = fgets($file)) !== false) {
     if (isset($max)) {if ($count >= $max) {break;}}
@@ -11,7 +12,7 @@ while (($line = fgets($file)) !== false) {
     $count++;
 }
 fclose($file);
-
+/*
 // sample
 $names = [
     'SCAR : Squadra Corse Alfa Romeo',
@@ -23,7 +24,7 @@ $names = [
     '4x4 EVO 2',
     'Black',
     'Tenku 2',
-];
+];*/
 
 // Roman/Arabic numerals relation
 $roman_arabic_numeral_relation = [
@@ -56,6 +57,8 @@ echo "\n";
 printf($mask, '', 'abbr', 'name', 'words');
 printf($mask, '', '', '', '', '');
 
+$output = [];
+
 // process games names
 foreach ($names as $name) {
     $abbr = [];
@@ -66,16 +69,19 @@ foreach ($names as $name) {
         $ignore = true;
     }
 
+    $name_clean = str_replace("'", "", $name);
+    $name_clean = html_entity_decode(preg_replace('~&([a-z]{1,2})(?:acute|cedil|circ|grave|lig|orn|ring|slash|th|tilde|uml);~i', '$1', htmlentities($name_clean, ENT_QUOTES, 'UTF-8')));
+
     // there is Roman numerals
-    if (preg_match_all('/\b(' . $roman_arabic_numeral_patterns . ')\b/', $name, $m)) {
-        $temp = preg_replace($roman_numeral, $arabic_numeral, $name);
+    if (preg_match_all('/\b(' . $roman_arabic_numeral_patterns . ')\b/', $name_clean, $m)) {
+        $temp = preg_replace($roman_numeral, $arabic_numeral, $name_clean);
 
         if (preg_match_all('/\b([a-zA-Z]|\d+|:)/', strtoupper($temp), $m)) {
             $abbr[] = str_replace(':', ' ', implode('', $m[1]));
         }
     }
 
-    if (preg_match_all('/\b(' . $roman_arabic_numeral_patterns . '|[a-zA-Z]|\d+|:)/', strtoupper($name), $m)) {
+    if (preg_match_all('/\b(' . $roman_arabic_numeral_patterns . '|[a-zA-Z]|\d+|:)/', strtoupper($name_clean), $m)) {
         $abbr[] = str_replace(':', ' ', implode('', $m[1]));
     }
 
@@ -87,7 +93,10 @@ foreach ($names as $name) {
     }
 
     printf($mask, $ignore_display, '(' . count($abbr) . ') ' . implode(', ', $abbr), $name, $words_count);
+    $output[] = sprintf($mask, $ignore_display, '(' . count($abbr) . ') ' . implode(', ', $abbr), $name, $words_count);
 }
+
+file_put_contents($file_name . '_generated.txt', implode('', $output));
 
 echo "\n";
 ?>

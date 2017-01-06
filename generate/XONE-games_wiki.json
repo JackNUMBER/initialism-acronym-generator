@@ -2,13 +2,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "#KILLALLZOMBIES",
-            "K"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "10 Second Ninja X",
             "10SNX"
         ]
@@ -25,20 +18,6 @@
         "synonyms": [
             "101 Ways To Die",
             "101WTD"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "140",
-            "140"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "2Dark",
-            "2"
         ]
     },
     {
@@ -81,20 +60,6 @@
         "synonyms": [
             "Aaru's Awakening",
             "AA"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Absolver",
-            "A"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Abz\u00fb",
-            "A"
         ]
     },
     {
@@ -163,13 +128,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "AER",
-            "A"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "AFL Evolution",
             "AE"
         ]
@@ -186,13 +144,6 @@
         "synonyms": [
             "Agents of Mayhem",
             "AOM"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "AIPD",
-            "A"
         ]
     },
     {
@@ -268,13 +219,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Anarcute",
-            "A"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Angry Birds Star Wars",
             "ABSW"
         ]
@@ -284,13 +228,6 @@
         "synonyms": [
             "Anima: Gate of Memories",
             "A GOM"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Anode",
-            "A"
         ]
     },
     {
@@ -366,29 +303,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Armello",
-            "A"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Armikrog",
-            "A"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Arslan: The Warriors of Legend",
             "A TWOL"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Ashen",
-            "A"
         ]
     },
     {
@@ -451,13 +367,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Astroneer",
-            "A"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Atari Flashback Classics: Volume 1",
             "AFC V1"
         ]
@@ -514,13 +423,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Aztez",
-            "A"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Back to the Future: The Game \u2013 30th Anniversary Edition",
             "BTTF TG30AE"
         ]
@@ -570,13 +472,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Bastion",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Batman: The Telltale Series",
             "B TTS"
         ]
@@ -605,13 +500,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Battleborn",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Battlefield 1",
             "B1"
         ]
@@ -628,13 +516,6 @@
         "synonyms": [
             "Battlefield Hardline",
             "BH"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Battleship",
-            "B"
         ]
     },
     {
@@ -682,13 +563,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Beacon",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Beatbuddy: Tale of the Guardians",
             "B TOTG"
         ]
@@ -698,27 +572,6 @@
         "synonyms": [
             "Beatsplosion for Kinect",
             "BFK"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Bedlam",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Below",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Ben-Hur",
-            "BH"
         ]
     },
     {
@@ -747,13 +600,6 @@
         "synonyms": [
             "Bike Mayhem 2",
             "BM2"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Binaries",
-            "B"
         ]
     },
     {
@@ -845,20 +691,6 @@
         "synonyms": [
             "Blues and Bullets: Episode 1",
             "BAB E1"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Boggle",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Bombshell",
-            "B"
         ]
     },
     {
@@ -983,13 +815,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "C-Wars",
-            "CW"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Calibre 10 Racing Series",
             "C10RS"
         ]
@@ -1089,13 +914,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Castles",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Castle Storm: Definitive Edition",
             "CS DE"
         ]
@@ -1112,20 +930,6 @@
         "synonyms": [
             "Celestial Sword",
             "CS"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Chaos;Child",
-            "CC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Chariot",
-            "C"
         ]
     },
     {
@@ -1159,13 +963,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Churbles",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Cities: Skylines",
             "C S"
         ]
@@ -1175,20 +972,6 @@
         "synonyms": [
             "Claire: Extended Cut",
             "C EC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Clash",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Clockwork",
-            "C"
         ]
     },
     {
@@ -1210,20 +993,6 @@
         "synonyms": [
             "ClusterPuck 99",
             "C99"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "ClusterTruck",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Cobalt",
-            "C"
         ]
     },
     {
@@ -1264,13 +1033,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Contrast",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Cosmic Star Heroine",
             "CSH"
         ]
@@ -1280,13 +1042,6 @@
         "synonyms": [
             "Costume Quest 2",
             "CQ2"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Crabitron",
-            "C"
         ]
     },
     {
@@ -1313,13 +1068,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Crimsonland",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Crossing the Line",
             "CTL"
         ]
@@ -1334,13 +1082,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Cubikolor",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Cubot - The Complexity of Simplicity",
             "CTCOS"
         ]
@@ -1350,13 +1091,6 @@
         "synonyms": [
             "The Culling",
             "TC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Cuphead",
-            "C"
         ]
     },
     {
@@ -1435,22 +1169,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "DayZ",
-            "D"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "DC Universe Online",
             "DUO"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "De-formers",
-            "DF"
         ]
     },
     {
@@ -1540,13 +1260,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Deadpool",
-            "D"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Dear Esther: Landmark Edition",
             "DE LE"
         ]
@@ -1589,13 +1302,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Destiny",
-            "D"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Deus Ex: Mankind Divided",
             "DE MD"
         ]
@@ -1605,13 +1311,6 @@
         "synonyms": [
             "Devil May Cry 4: Special Edition",
             "DMC4 SE"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Dex",
-            "D"
         ]
     },
     {
@@ -1688,13 +1387,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Dogos",
-            "D"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Don Bradman Cricket",
             "DBC"
         ]
@@ -1725,13 +1417,6 @@
         "synonyms": [
             "Doodle God 2",
             "DG2"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Doom",
-            "D"
         ]
     },
     {
@@ -1920,20 +1605,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Elementales",
-            "E"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "ELEX",
-            "E"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Elite: Dangerous",
             "E D"
         ]
@@ -1983,13 +1654,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "ENKI",
-            "E"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "The Escapists",
             "TE"
         ]
@@ -2025,13 +1689,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Everspace",
-            "E"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Exile's End",
             "EE"
         ]
@@ -2041,13 +1698,6 @@
         "synonyms": [
             "The Evil Within",
             "TEW"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Evolve",
-            "E"
         ]
     },
     {
@@ -2102,13 +1752,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "FAR",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Far Cry 4",
             "FC4"
         ]
@@ -2144,13 +1787,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Feist",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Fenix Furia",
             "FF"
         ]
@@ -2160,13 +1796,6 @@
         "synonyms": [
             "Fermi's Path",
             "FP"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Fibbage",
-            "F"
         ]
     },
     {
@@ -2207,13 +1836,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Figment",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Final Fantasy Type-0",
             "FFT0"
         ]
@@ -2242,13 +1864,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Firewatch",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "The Flame in the Flood",
             "TFITF"
         ]
@@ -2263,20 +1878,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "FlintHook",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Flockers",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "For Honor",
             "FH"
         ]
@@ -2286,20 +1887,6 @@
         "synonyms": [
             "For The King",
             "FTK"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Forced",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Fortified",
-            "F"
         ]
     },
     {
@@ -2354,13 +1941,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "FreezeME",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Friday the 13th: The Game",
             "FT13 TG"
         ]
@@ -2368,22 +1948,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Frizzy",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Frozen Free Fall: Snowball Fight",
             "FFF SF"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Fru",
-            "F"
         ]
     },
     {
@@ -2405,13 +1971,6 @@
         "synonyms": [
             "Funk of Titans",
             "FOT"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Furi",
-            "F"
         ]
     },
     {
@@ -2473,13 +2032,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Gemini",
-            "G"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Gemini: Heroes Reborn",
             "G HR"
         ]
@@ -2508,13 +2060,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Ghostbusters",
-            "G"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Giana Sisters: Dream Runners",
             "GS DR"
         ]
@@ -2529,22 +2074,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Gigantic",
-            "G"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Ginger: Beyond the Crystal",
             "G BTC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Glitchrunners",
-            "G"
         ]
     },
     {
@@ -2595,13 +2126,6 @@
             "Grand Theft Auto V",
             "GTA5",
             "GTAV"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Grave",
-            "G"
         ]
     },
     {
@@ -2658,20 +2182,6 @@
         "synonyms": [
             "Guns, Gore and Cannoli",
             "GGAC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Gunscape",
-            "G"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Gunsport",
-            "G"
         ]
     },
     {
@@ -2817,29 +2327,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Hawken",
-            "H"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Headlander",
-            "H"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "HeartZ: Co-Hope Puzzles",
             "H CHP"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Heart&Slash",
-            "HS"
         ]
     },
     {
@@ -2852,22 +2341,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Hitman",
-            "H"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Homefront: The Revolution",
             "H TR"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "HoPiKo",
-            "H"
         ]
     },
     {
@@ -2889,13 +2364,6 @@
         "synonyms": [
             "How To Survive: Storm Warning Edition",
             "HTS SWE"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Hue",
-            "H"
         ]
     },
     {
@@ -2985,13 +2453,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Inside",
-            "I"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Inside My Radio",
             "IMR"
         ]
@@ -3006,29 +2467,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Ion",
-            "I"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Ironcast",
-            "I"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Ittle Dew 2",
             "ID2"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "IDARB",
-            "I"
         ]
     },
     {
@@ -3160,13 +2600,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Kalimba!",
-            "K"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Kerbal Space Program",
             "KSP"
         ]
@@ -3280,13 +2713,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "KYUB",
-            "K"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "KYURINAGA'S REVENGE",
             "KR"
         ]
@@ -3310,20 +2736,6 @@
         "synonyms": [
             "Lara Croft and the Temple of Osiris",
             "LCATTOO"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Laserlife",
-            "L"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Lastfight",
-            "L"
         ]
     },
     {
@@ -3490,13 +2902,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Limbo",
-            "L"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Line of Defense Tactics",
             "LODT"
         ]
@@ -3511,22 +2916,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Livelock",
-            "L"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "The Living Dungeon",
             "TLD"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "LocoCycle",
-            "L"
         ]
     },
     {
@@ -3569,13 +2960,6 @@
         "synonyms": [
             "Layers of Fear",
             "LOF"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Lumo",
-            "L"
         ]
     },
     {
@@ -3647,20 +3031,6 @@
         "synonyms": [
             "Magnetic: Cage Closed",
             "M CC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "MagNets",
-            "M"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Mahjong",
-            "M"
         ]
     },
     {
@@ -3771,13 +3141,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "McDroid",
-            "M"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "The Mean Greens - Plastic Warfare",
             "TMGPW"
         ]
@@ -3794,13 +3157,6 @@
         "synonyms": [
             "Mega Man Legacy Collection",
             "MMLC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Mekazoo",
-            "M"
         ]
     },
     {
@@ -3878,13 +3234,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Minecraft",
-            "M"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Minecraft: Story Mode",
             "M SM"
         ]
@@ -3906,22 +3255,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Momentum",
-            "M"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Momonga Pinball Adventures",
             "MPA"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Monochroma",
-            "M"
         ]
     },
     {
@@ -3964,13 +3299,6 @@
         "synonyms": [
             "Mortar Melon",
             "MM"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Mercury",
-            "M"
         ]
     },
     {
@@ -4034,13 +3362,6 @@
         "synonyms": [
             "MX vs. ATV: Supercross Encore Edition",
             "MVA SEE"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "MXGP2",
-            "M"
         ]
     },
     {
@@ -4144,20 +3465,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Nebulous",
-            "N"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Necropolis",
-            "N"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Need for Speed Rivals",
             "NFSR"
         ]
@@ -4174,20 +3481,6 @@
         "synonyms": [
             "Neon Chrome",
             "NC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Nero",
-            "N"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Neverwinter",
-            "N"
         ]
     },
     {
@@ -4256,29 +3549,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Nova-111",
-            "N111"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Nuclear Throne",
             "NT"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Nutjitsu",
-            "N"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Obliteracers",
-            "O"
         ]
     },
     {
@@ -4312,13 +3584,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "OlliOlli",
-            "O"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "OlliOlli2: Welcome to Olliwood",
             "O WTO"
         ]
@@ -4335,20 +3600,6 @@
         "synonyms": [
             "One Piece: Burning Blood",
             "OP BB"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Onigiri",
-            "O"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Orbit",
-            "O"
         ]
     },
     {
@@ -4375,13 +3626,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Outlast",
-            "O"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Outlast 2",
             "O2"
         ]
@@ -4396,43 +3640,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Overload",
-            "O"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Overlord: Fellowship of Evil",
             "O FOE"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Overcooked!",
-            "O"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Overruled!",
-            "O"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Overwatch",
-            "O"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Oxenfree",
-            "O"
         ]
     },
     {
@@ -4515,13 +3724,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Penarium",
-            "P"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Perfect Woman",
             "PW"
         ]
@@ -4538,13 +3740,6 @@
         "synonyms": [
             "Phantom Dust",
             "PD"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Pharaonic",
-            "P"
         ]
     },
     {
@@ -4613,13 +3808,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Polychromatic",
-            "P"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Pool Nation FX",
             "PNF"
         ]
@@ -4629,13 +3817,6 @@
         "synonyms": [
             "Powerstar Golf",
             "PG"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Prey",
-            "P"
         ]
     },
     {
@@ -4711,22 +3892,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Prototype",
-            "P"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Prototype 2",
             "P2"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Psycho-Pass",
-            "PP"
         ]
     },
     {
@@ -4774,13 +3941,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Q",
-            "Q"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Quantum Break",
             "QB"
         ]
@@ -4818,13 +3978,6 @@
         "synonyms": [
             "Q.U.B.E 2",
             "QUBE2"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Quiplash",
-            "Q"
         ]
     },
     {
@@ -4922,20 +4075,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "ReCore",
-            "R"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Recruits",
-            "R"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Red Dead Redemption 2",
             "RDR2"
         ]
@@ -4999,13 +4138,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "REUS",
-            "R"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Reverse Blade",
             "RB"
         ]
@@ -5015,13 +4147,6 @@
         "synonyms": [
             "Reversi Quest",
             "RQ"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Ride",
-            "R"
         ]
     },
     {
@@ -5055,13 +4180,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Risk",
-            "R"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Risk: Urban Assault",
             "R UA"
         ]
@@ -5078,13 +4196,6 @@
         "synonyms": [
             "Road Rage",
             "RR"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Roblox",
-            "R"
         ]
     },
     {
@@ -5160,13 +4271,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Roundabout",
-            "R"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Rugby 15",
             "R15"
         ]
@@ -5219,34 +4323,6 @@
         "synonyms": [
             "Saturday Morning RPG",
             "SMR"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Scalebound",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Scrabble",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Screamride",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Screencheat",
-            "S"
         ]
     },
     {
@@ -5329,13 +4405,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Sheltered",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Sherlock Holmes: Crimes & Punishments",
             "SH CP"
         ]
@@ -5345,20 +4414,6 @@
         "synonyms": [
             "Sherlock Holmes: The Devil's Daughter",
             "SH TDD"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Shiftlings",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Shiness",
-            "S"
         ]
     },
     {
@@ -5469,13 +4524,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "SlashDash",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Sleeping Dogs: Definitive Edition",
             "SD DE"
         ]
@@ -5499,13 +4547,6 @@
         "synonyms": [
             "Slime Rancher",
             "SR"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Smite",
-            "S"
         ]
     },
     {
@@ -5546,13 +4587,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Soccertron",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Soda Drinker Pro",
             "SDP"
         ]
@@ -5562,20 +4596,6 @@
         "synonyms": [
             "Solar Shifter EX",
             "SSE"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Solitaire",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Sombrero",
-            "S"
         ]
     },
     {
@@ -5616,13 +4636,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Source",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "South Park: The Fractured but Whole",
             "SP TFBW"
         ]
@@ -5651,13 +4664,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Spareware",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Sparkle 2",
             "S2"
         ]
@@ -5679,13 +4685,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "SpeedRunners",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Spy Chameleon",
             "SC"
         ]
@@ -5700,13 +4699,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Standpoint",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Star Trek Online",
             "STO"
         ]
@@ -5714,22 +4706,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "STARWHAL",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Star Wars: Battlefront",
             "SW B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Starbound",
-            "S"
         ]
     },
     {
@@ -5805,20 +4783,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Steep",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Steredenn",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Stern Pinball Arcade",
             "SPA"
         ]
@@ -5854,13 +4818,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Strider",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Strike Suit Zero: Director's Cut",
             "SSZ DC"
         ]
@@ -5889,20 +4846,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Submerged",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Subnautica",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "The Sun and Moon",
             "TSAM"
         ]
@@ -5926,13 +4869,6 @@
         "synonyms": [
             "Super Mutant Alien Assault",
             "SMAA"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Superhot",
-            "S"
         ]
     },
     {
@@ -6015,13 +4951,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Swordy",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Syberia 3",
             "S3"
         ]
@@ -6029,22 +4958,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Sylvio",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Tachyon Project",
             "TP"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "TACOMA",
-            "T"
         ]
     },
     {
@@ -6092,34 +5007,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Terraria",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Teslagrad",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Teslapunk",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Tetraminos",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Tetris Ultimate",
             "TU"
         ]
@@ -6129,13 +5016,6 @@
         "synonyms": [
             "Tetrobot and Co.",
             "TAC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Thief",
-            "T"
         ]
     },
     {
@@ -6169,22 +5049,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Threes",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Tiny Troopers Joint Ops",
             "TTJO"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Titanfall",
-            "T"
         ]
     },
     {
@@ -6246,13 +5112,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Toro",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Toto Temple Deluxe",
             "TTD"
         ]
@@ -6276,13 +5135,6 @@
         "synonyms": [
             "TRON RUN\/r",
             "TRR"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Trove",
-            "T"
         ]
     },
     {
@@ -6372,13 +5224,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Tumblestone",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Turok: Dinosaur Hunter",
             "T DH"
         ]
@@ -6400,13 +5245,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "TurnOn",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Twilight Struggle",
             "TS"
         ]
@@ -6414,29 +5252,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Ultratron",
-            "U"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Unbox",
-            "U"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Uncanny Valley",
             "UV"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Unepic",
-            "U"
         ]
     },
     {
@@ -6451,20 +5268,6 @@
         "synonyms": [
             "Unnamed Fiasco",
             "UF"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Uno",
-            "U"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Unravel",
-            "U"
         ]
     },
     {
@@ -6491,13 +5294,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Valley",
-            "V"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "The Incredible Adventures of Van Helsing",
             "TIAOVH"
         ]
@@ -6519,29 +5315,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Verdun",
-            "V"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Videoball",
-            "V"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Vikings - Wolves of Migard",
             "VWOM"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Virginia",
-            "V"
         ]
     },
     {
@@ -6605,13 +5380,6 @@
         "synonyms": [
             "Wand Wars",
             "WW"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Warframe",
-            "W"
         ]
     },
     {
@@ -6687,13 +5455,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Wells",
-            "W"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Westerado: Double Barreled",
             "W DB"
         ]
@@ -6757,13 +5518,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Wondershot",
-            "W"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Woolfe: The Red Hood Diaries",
             "W TRHD"
         ]
@@ -6821,13 +5575,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Wulverblade",
-            "W"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "WWE 2K15",
             "W2"
         ]
@@ -6863,13 +5610,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Xenoraid",
-            "X"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Yasai Ninja",
             "YN"
         ]
@@ -6884,50 +5624,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Yooka-Laylee",
-            "YL"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Yu-Gi-Oh! Legacy of the Duelist",
             "YGOLOTD"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Zarvot",
-            "Z"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Zenith",
-            "Z"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Zheros",
-            "Z"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Ziggurat",
-            "Z"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Zombi",
-            "Z"
         ]
     },
     {

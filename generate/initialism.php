@@ -1,7 +1,7 @@
 <?php
 // $max = 20;
 $count = 0;
-$file_name = 'XBOX-games_wiki';
+$file_name = 'XONE-games_wiki';
 
 // read file
 $file = fopen($file_name . '.txt', "r");
@@ -94,12 +94,14 @@ foreach ($names as $name) {
 
     printf($mask, $ignore_display, '(' . count($abbr) . ') ' . implode(', ', $abbr), $name, $words_count);
 
-    $temp = $abbr;
-    array_unshift($temp, $name);
-    $output[] = [
-        'type' => 'synonym',
-        'synonyms' => $temp,
-    ];
+    if (!$ignore) {
+        $temp = $abbr;
+        array_unshift($temp, $name);
+        $output[] = [
+            'type' => 'synonym',
+            'synonyms' => $temp,
+        ];
+    }
 }
 
 file_put_contents($file_name . '.json', json_encode($output, JSON_PRETTY_PRINT));

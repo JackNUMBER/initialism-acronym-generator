@@ -136,13 +136,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Alias",
-            "A"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Alien Hominid",
             "AH"
         ]
@@ -297,13 +290,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "APEX",
-            "A"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Racing Evoluzione",
             "RE"
         ]
@@ -441,13 +427,6 @@
             "Baldur's Gate: Dark Alliance II",
             "BG DA2",
             "BG DAII"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Barbarian",
-            "B"
         ]
     },
     {
@@ -600,22 +579,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Black",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Black Stone: Magic & Steel",
             "BS MS"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Ex-Chaser",
-            "EC"
         ]
     },
     {
@@ -678,13 +643,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "BloodRayne",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "BloodRayne 2",
             "B2"
         ]
@@ -699,13 +657,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "BlowOut",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "BMX XXX",
             "BX"
         ]
@@ -713,22 +664,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Braveknight",
-            "B"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Break Nine: World Billiards Tournament",
             "BN WBT"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Breakdown",
-            "B"
         ]
     },
     {
@@ -792,13 +729,6 @@
         "synonyms": [
             "Buffy the Vampire Slayer: Chaos Bleeds",
             "BTVS CB"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Burnout",
-            "B"
         ]
     },
     {
@@ -944,20 +874,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Cars",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Carve",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Castlevania: Curse of Darkness",
             "C COD"
         ]
@@ -967,13 +883,6 @@
         "synonyms": [
             "Akumajo Dracula: Yami no Juin",
             "AD YNJ"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Catwoman",
-            "C"
         ]
     },
     {
@@ -1449,13 +1358,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Conan",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Conflict: Desert Storm",
             "C DS"
         ]
@@ -1494,27 +1396,6 @@
         "synonyms": [
             "Conspiracy: Weapons of Mass Destruction",
             "C WOMD"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Constantine",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Corvette",
-            "C"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Counter-Strike",
-            "CS"
         ]
     },
     {
@@ -1725,13 +1606,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Darkwatch",
-            "D"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Dave Mirra Freestyle BMX 2",
             "DMFB2"
         ]
@@ -1789,22 +1663,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Deathrow",
-            "D"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Def Jam: Fight for NY",
             "DJ FFN"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Defender",
-            "D"
         ]
     },
     {
@@ -1964,13 +1824,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "DrihooJP",
-            "D"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Drive to Survive",
             "DTS"
         ]
@@ -1980,13 +1833,6 @@
         "synonyms": [
             "Mashed: Drive to SurvivePAL",
             "M DTS"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "DRIV3R",
-            "D"
         ]
     },
     {
@@ -2077,13 +1923,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Enclave",
-            "E"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "England International Football",
             "EIF"
         ]
@@ -2093,13 +1932,6 @@
         "synonyms": [
             "Enter the Matrix",
             "ETM"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Eragon",
-            "E"
         ]
     },
     {
@@ -2217,13 +2049,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "ExaSkeleton",
-            "E"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Exhibition: Volume 1",
             "E V1"
         ]
@@ -2289,13 +2114,6 @@
         "synonyms": [
             "F1 Career Challenge",
             "FCC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Fable",
-            "F"
         ]
     },
     {
@@ -2492,13 +2310,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "FlatOut",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "FlatOut 2",
             "F2"
         ]
@@ -2625,13 +2436,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Futurama",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Future Tactics: The Uprising",
             "FT TU"
         ]
@@ -2648,13 +2452,6 @@
         "synonyms": [
             "Galaxy Angel",
             "GA"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Galleon",
-            "G"
         ]
     },
     {
@@ -2702,13 +2499,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Gladius",
-            "G"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Goblin Commander: Unleash the Horde",
             "GC UTH"
         ]
@@ -2739,13 +2529,6 @@
         "synonyms": [
             "GoldenEye: Rogue Agent",
             "G RA"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Gotcha!",
-            "G"
         ]
     },
     {
@@ -2857,13 +2640,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Gun",
-            "G"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Gun Metal",
             "GM"
         ]
@@ -2873,13 +2649,6 @@
         "synonyms": [
             "GunGriffon: Allied Strike",
             "G AS"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Gunvalkyrie",
-            "G"
         ]
     },
     {
@@ -3061,13 +2830,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Hulk",
-            "H"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Hummer Badlands",
             "HB"
         ]
@@ -3091,13 +2853,6 @@
         "synonyms": [
             "The Hustle: Detroit Streets",
             "TH DS"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "I-Ninja",
-            "IN"
         ]
     },
     {
@@ -3180,13 +2935,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Fahrenheit",
-            "F"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "IndyCar Series",
             "IS"
         ]
@@ -3236,13 +2984,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Jacked",
-            "J"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Jade Empire",
             "JE"
         ]
@@ -3287,13 +3028,6 @@
         "synonyms": [
             "Judge Dredd: Dredd Vs. Death",
             "JD DVD"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Juiced",
-            "J"
         ]
     },
     {
@@ -3638,13 +3372,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Madagascar",
-            "M"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Madden NFL 06",
             "MN06"
         ]
@@ -3708,13 +3435,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Magatama",
-            "M"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Magic the Gathering: Battlegrounds",
             "MTG B"
         ]
@@ -3750,22 +3470,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Malice",
-            "M"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Manchester United Manager 2005",
             "MUM2005"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Manhunt",
-            "M"
         ]
     },
     {
@@ -3836,13 +3542,6 @@
         "synonyms": [
             "Maximum Chase",
             "MC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "MechAssault",
-            "M"
         ]
     },
     {
@@ -4073,13 +3772,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Mojo!",
-            "M"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Monopoly Party",
             "MP"
         ]
@@ -4131,13 +3823,6 @@
         "synonyms": [
             "Motocross Mania 3",
             "MM3"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "MotoGP",
-            "M"
         ]
     },
     {
@@ -4287,13 +3972,6 @@
         "synonyms": [
             "Namco Museum 50th Anniversary Arcade Collection",
             "NM50AAC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Narc",
-            "N"
         ]
     },
     {
@@ -4782,13 +4460,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "NightCaster",
-            "N"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "NightCaster II: Equinox",
             "N2 E",
             "NII E"
@@ -4813,13 +4484,6 @@
         "synonyms": [
             "Nobunaga no Yabou: Ranseiki",
             "NNY R"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "ObsCure",
-            "O"
         ]
     },
     {
@@ -4979,13 +4643,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Pariah",
-            "P"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Peter Jackson's King Kong",
             "PJKK"
         ]
@@ -5087,13 +4744,6 @@
         "synonyms": [
             "Pool Shark 2",
             "PS2"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Powerdrome",
-            "P"
         ]
     },
     {
@@ -5204,13 +4854,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Psychonauts",
-            "P"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Psyvariar 2",
             "P2"
         ]
@@ -5290,13 +4933,6 @@
         "synonyms": [
             "Rapala Pro Fishing",
             "RPF"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Ratatouille",
-            "R"
         ]
     },
     {
@@ -5401,22 +5037,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "RoadKill",
-            "R"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Robin Hood: Defender of the Crown",
             "RH DOTC"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "RoboCop",
-            "R"
         ]
     },
     {
@@ -5438,20 +5060,6 @@
         "synonyms": [
             "Robotech: Invasion",
             "R I"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Robots",
-            "R"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Rocky",
-            "R"
         ]
     },
     {
@@ -5480,13 +5088,6 @@
         "synonyms": [
             "RollerCoaster Tycoon",
             "RT"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Rolling",
-            "R"
         ]
     },
     {
@@ -5549,13 +5150,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Scaler",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Scarface: The World Is Yours",
             "S TWIY"
         ]
@@ -5586,13 +5180,6 @@
         "synonyms": [
             "American McGee Presents: Scrapland",
             "AMP S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "SeaBlade",
-            "S"
         ]
     },
     {
@@ -5769,13 +5356,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Shrek",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Shrek 2",
             "S2"
         ]
@@ -5895,13 +5475,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Sneakers",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Sniper Elite",
             "SE"
         ]
@@ -5988,13 +5561,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Spider-Man",
-            "SM"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Spider-Man 2",
             "SM2"
         ]
@@ -6004,13 +5570,6 @@
         "synonyms": [
             "Spikeout: Battle Street",
             "S BS"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Splashdown",
-            "S"
         ]
     },
     {
@@ -6244,13 +5803,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Stolen",
-            "S"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Street Fighter Anniversary Collection",
             "SFAC"
         ]
@@ -6281,13 +5833,6 @@
         "synonyms": [
             "Stubbs the Zombie in Rebel Without a Pulse",
             "STZIRWAP"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Sudeki",
-            "S"
         ]
     },
     {
@@ -6351,13 +5896,6 @@
         "synonyms": [
             "SX Superstar",
             "SS"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Syberia",
-            "S"
         ]
     },
     {
@@ -6469,13 +6007,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Tenerezza",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Tennis Masters Series 2003",
             "TMS2003"
         ]
@@ -6562,13 +6093,6 @@
         "synonyms": [
             "Thousand Land",
             "TL"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Thrillville",
-            "T"
         ]
     },
     {
@@ -6876,13 +6400,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Totaled!",
-            "T"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Touge R",
             "TR"
         ]
@@ -7123,13 +6640,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Vexx",
-            "V"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Vietcong: Purple Haze",
             "V PH"
         ]
@@ -7179,36 +6689,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Warpath",
-            "W"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "The Warriors",
             "TW"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Whacked!",
-            "W"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Whiplash",
-            "W"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Whiteout",
-            "W"
         ]
     },
     {
@@ -7426,13 +6908,6 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Double-S.T.E.A.L.JP",
-            "DSTEALJ"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "WTA Tour Tennis",
             "WTT"
         ]
@@ -7518,36 +6993,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "XGRA",
-            "X"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Xiaolin Showdown",
             "XS"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "XIII",
-            "X"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Xyanide",
-            "X"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Yager",
-            "Y"
         ]
     },
     {
@@ -7567,36 +7014,8 @@
     {
         "type": "synonym",
         "synonyms": [
-            "Yourself!Fitness",
-            "YF"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
             "Yu-Gi-Oh! The Dawn of Destiny",
             "YGOTDOD"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Zapper",
-            "Z"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "Zathura",
-            "Z"
-        ]
-    },
-    {
-        "type": "synonym",
-        "synonyms": [
-            "ZillerNet",
-            "Z"
         ]
     }
 ]

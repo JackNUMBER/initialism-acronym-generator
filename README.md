@@ -1,12 +1,57 @@
-This repo contains a list of videogames names initialism. There is no acronyms here (like LOL, FTW!, AFK...) then it's more like alternatives names. These abbreviations are usually given by gamers themselves so feel free to contribute :wink:
+# Initialism and Acronym Generator
 
-For example, **Grand Theft Auto V** is also named **GTAV** or **GTA 5**.
+The purpose of this tool is to create an [Algolia Synonyms](https://www.algolia.com/doc/guides/managing-results/optimize-search-results/adding-synonyms/how-to/managing-synonyms-from-the-dashboard/#importing-synonyms-from-a-file) JSON file by generating initialisms from a list of names.
 
-Formated to be usable in Algolia Synonyms Settings.
+In other words it generates alternatives names for a string. Otherwise it will not generates acronyms like *Benelux*.
+You can see script limitations with the sample.
 
-Sources:
-* bungie.net/en/Forums/Post/129676119
-* nintendo.wikia.com/wiki/List_of_video_game_initialisms
-* tvtropes.org/pmwiki/pmwiki.php/FunWithAcronyms/VideoGames
-* acronymfinder.com
-* Wikipedia
+Roman numerals generates a variant with Arabic numbers.
+
+## How to use
+You can edit settings at the start of the **initialism.php** file and edit the `sample.txt`, and then run the script in CLI:
+```
+php initialism.php
+```
+
+## Sample
+
+Input:
+```
+North Atlantic Treaty Organization
+Joint Photographic Experts Group
+structured query language
+Grand Theft Auto V
+NotAcronymizableString
+compact disc read-only memory
+light amplification by stimulated emission of radiation
+```
+
+Output:
+```
+[
+    {
+        "type": "synonym",
+        "synonyms": ["North Atlantic Treaty Organization", "NATO"]
+    },
+    {
+        "type": "synonym",
+        "synonyms": ["Joint Photographic Experts Group", "JPEG"]
+    },
+    {
+        "type": "synonym",
+        "synonyms": ["structured query language", "SQL"]
+    },
+    {
+        "type": "synonym",
+        "synonyms": ["Grand Theft Auto V", "GTA5", "GTAV"]
+    },
+    {
+        "type": "synonym",
+        "synonyms": ["compact disc read-only memory", "CDROM"]
+    },
+    {
+        "type": "synonym",
+        "synonyms": ["light amplification by stimulated emission of radiation", "LABSEOR"]
+    }
+]
+```

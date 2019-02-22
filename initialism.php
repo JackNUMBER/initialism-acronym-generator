@@ -1,7 +1,10 @@
 <?php
+
+$output = [];
+
 // $max = 20;
 $count = 0;
-$file_name = 'XONE-games_wiki';
+$file_name = 'sample';
 
 // read file
 $file = fopen($file_name . '.txt', "r");
@@ -12,19 +15,6 @@ while (($line = fgets($file)) !== false) {
     $count++;
 }
 fclose($file);
-/*
-// sample
-$names = [
-    'SCAR : Squadra Corse Alfa Romeo',
-    'All-Star Baseball 2003',
-    '007: Nightfire',
-    'Grand Theft Auto V',
-    'Saints Row IV: Re-Elected',
-    'Airforce Delta II',
-    '4x4 EVO 2',
-    'Black',
-    'Tenku 2',
-];*/
 
 // Roman/Arabic numerals relation
 $roman_arabic_numeral_relation = [
@@ -51,13 +41,10 @@ foreach ($roman_arabic_numeral_relation as $roman => $arabic) {
 }
 
 // cli table render
-$mask = "| %1.1s | %-8.8s | %-40.40s | %-5.5s |\n";
 $mask = "| %1.1s | %-15.30s | %-40.40s | %-5.5s |\n";
 echo "\n";
 printf($mask, '', 'abbr', 'name', 'words');
 printf($mask, '', '', '', '', '');
-
-$output = [];
 
 // process games names
 foreach ($names as $name) {

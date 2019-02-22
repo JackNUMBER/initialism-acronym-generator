@@ -1,16 +1,18 @@
 <?php
 
-$output = [];
+/* --- Settings --- */
 
-// $max = 20;
-$count = 0;
 $file_name = 'sample';
+// $max = 20;
+
+/* ---------------- */
 
 // read file
-$file = fopen($file_name . '.txt', "r");
+$file = fopen($file_name . '.txt', 'r');
 $names = [];
+$count = 0;
 while (($line = fgets($file)) !== false) {
-    if (isset($max)) {if ($count >= $max) {break;}}
+    if (isset($max) && $count >= $max) { break; }
     $names[] = trim($line);
     $count++;
 }
@@ -28,7 +30,7 @@ $roman_arabic_numeral_relation = [
     'IX'   => '9',
 ];
 
-// regex parttern
+// regex pattern
 $roman_arabic_numeral_patterns = implode('|', array_keys($roman_arabic_numeral_relation));
 
 // replace pattern
@@ -47,6 +49,7 @@ printf($mask, '', 'abbr', 'name', 'words');
 printf($mask, '', '', '', '', '');
 
 // process games names
+$output = [];
 foreach ($names as $name) {
     $abbr = [];
     $ignore = false;
@@ -74,12 +77,12 @@ foreach ($names as $name) {
 
     // cli ignore render
     if ($ignore) {
-        $ignore_display = '';
+        $status = 'x';
     } else {
-        $ignore_display = 'x';
+        $status = 'o';
     }
 
-    printf($mask, $ignore_display, '(' . count($abbr) . ') ' . implode(', ', $abbr), $name, $words_count);
+    printf($mask, $status, '(' . count($abbr) . ') ' . implode(', ', $abbr), $name, $words_count);
 
     if (!$ignore) {
         $temp = $abbr;
